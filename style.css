@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    background-image: url(./sunset-sky.jpg);
+}
+.container{
+    align-items: baseline;
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    color: white;
+    font-size: 25px;
+   
+    
+}
+.rightSide{
+    
+    display: flex;
+    justify-content: left;
+    padding-right: 20px;
+    
+}
+.leftSide{
+  
+ display:flex;
+ flex-direction: row;
+ justify-content: flex-end;
+ padding-right: 20px;
+}
+.wel{
+    color: white;
+    font-size: 50px;
+    padding-top: 100px;
+   text-align: center;
+
+}
